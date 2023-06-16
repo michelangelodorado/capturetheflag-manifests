@@ -51,7 +51,7 @@ Use the `BLANK_README.md` to get started.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You will set up the practice environment on a Kubernetes cluster in a cloud environment.
+You will set up the practice environment in a Kubernetes cluster (Azure/AWS)
 
 The practice environment consists of two applications:
 
