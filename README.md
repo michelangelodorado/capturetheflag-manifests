@@ -1,1 +1,1 @@
-# ctfapi-manifest
+# capturetheflag-manifests
