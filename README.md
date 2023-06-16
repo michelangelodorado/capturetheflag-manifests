@@ -34,7 +34,7 @@
 This project was created from the link below from F5 Labs, author was Shahnawaz Backer:<br>
 [https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification](https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification)
 
-Demystifying API Attacks Using Gamification<br>
+<b>Demystifying API Attacks Using Gamification</b><br>
 Learn about authentication, authorization, and security misconfiguration in API compromises by exploring this capture-the-flag game.
 
 F5 Labs is introducing a gamified version of a system that lets you hunt for API vulnerabilities on your own to learn how they work. The system simulates some of the errors that are left intentionally or unintentionally in the system and similar issues that have been exploited and resulted in breaches.
