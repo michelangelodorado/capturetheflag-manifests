@@ -51,8 +51,13 @@ Use the `BLANK_README.md` to get started.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You will set up the practice environment on a Kubernetes cluster in a cloud environment.
+
+The practice environment consists of two applications:
+
+* sbacker/ctfapi: The quiz website describing the scenario that needs to be pwned
+* sbacker/witcherportal: The vulnerable portal for challenged
+
 
 ### Prerequisites
 
