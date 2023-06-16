@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: witcherportal-deployment
+  labels:
+    app: witcherportal
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: witcherportal
+  template:
+    metadata:
+      labels:
+        app: witcherportal
+    spec:
+      containers:
+      - name: witcherportal
+        image: sbacker/witcherportal
+        ports:
+        - containerPort: 8080
