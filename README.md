@@ -46,8 +46,8 @@ You will set up the practice environment in a Kubernetes cluster (Azure/AWS)
 
 The practice environment consists of two applications:
 
-* sbacker/ctfapi: The quiz website describing the scenario that needs to be pwned
-* sbacker/witcherportal: The vulnerable portal for challenged
+* <i><b>sbacker/ctfapi:</i></b> The quiz website describing the scenario that needs to be pwned
+* <i><b>sbacker/witcherportal:</i></b> The vulnerable portal for challenged
 
 
 ### Prerequisites
