@@ -31,6 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This project was created from the link below from F5 Labs, author was Shahnawaz Backer:
 [https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification](https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification)
 
 Demystifying API Attacks Using Gamification
