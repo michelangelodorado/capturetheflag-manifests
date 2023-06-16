@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * Kubernetes cluster in Azure or AWS
-* Git or have the yaml files uploaded to your K8 master node
+* Git or have the yaml files uploaded to your K8s master node
 
 ### Installation
 
