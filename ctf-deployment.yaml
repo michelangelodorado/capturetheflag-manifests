@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ctf-deployment
+  labels:
+    app: ctf
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ctf
+  template:
+    metadata:
+      labels:
+        app: ctf
+    spec:
+      containers:
+      - name: ctf
+        image: sbacker/ctfapi
+        ports:
+        - containerPort: 8000
