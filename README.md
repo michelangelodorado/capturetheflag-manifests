@@ -39,13 +39,6 @@ Learn about authentication, authorization, and security misconfiguration in API 
 
 F5 Labs is introducing a gamified version of a system that lets you hunt for API vulnerabilities on your own to learn how they work. The system simulates some of the errors that are left intentionally or unintentionally in the system and similar issues that have been exploited and resulted in breaches.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
