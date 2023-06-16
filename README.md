@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification)
+[https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification](https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification)
 
 Demystifying API Attacks Using Gamification
 Learn about authentication, authorization, and security misconfiguration in API compromises by exploring this capture-the-flag game.
