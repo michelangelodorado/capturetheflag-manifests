@@ -33,7 +33,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Demystifying API Attacks Using Gamification
+Learn about authentication, authorization, and security misconfiguration in API compromises by exploring this capture-the-flag game.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
