@@ -39,8 +39,6 @@ Learn about authentication, authorization, and security misconfiguration in API 
 
 F5 Labs is introducing a gamified version of a system that lets you hunt for API vulnerabilities on your own to learn how they work. The system simulates some of the errors that are left intentionally or unintentionally in the system and similar issues that have been exploited and resulted in breaches.
 
-Use the `BLANK_README.md` to get started.
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
