@@ -53,7 +53,7 @@ The practice environment consists of two applications:
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* Kubernetes cluster in Azure or AWS
+* Kubernetes cluster in Azure (AKS) or AWS (EKS)
 * Git or have the yaml files uploaded to your K8s master node
 
 ### Installation
