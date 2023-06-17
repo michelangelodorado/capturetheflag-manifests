@@ -92,5 +92,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Demystifying API Attacks Using Gamification](https://www.f5.com/labs/learning-center/demystifying-api-attacks-using-gamification)
+* [ctfd.io](https://ctfd.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
